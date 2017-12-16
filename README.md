@@ -1,0 +1,2 @@
+# Adaptive-Event-Detection-with-Time-Varying-Poisson-Processes
+We showcase a paper published by other authors in the field, who try to identify periods of "abnormal" activity in a Poisson process. We first present a simple approach, using a probabilistic threshold to identify extreme events. We follow this up by presenting the authors' new approach, which involves a Bayesian modeling of the Poisson parameters. This is deemed the "Markov Modulated Poisson Process".
